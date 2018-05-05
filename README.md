@@ -9,7 +9,7 @@
                     at Trring Pro (Beta) - Lockscreen unless otherwise defined in this Privacy Policy.
                   </p> <p><strong>Information Collection and Use</strong></p> <p>For a better experience, while using our Service, we may require you to provide us with certain
                     personally identifiable information, including but not limited to Contacts, Phone &amp; Camera. The information that we request is will be retained by us and used as described in this privacy policy.
-                  </p> <p>The app does use third party services that may collect information used to identify you.</p> <!----> <p><strong>Log Data</strong></p> <p> We want to inform you that whenever you use our Service, in a case of an
+                  </p> <p>The app does use third party services that may collect information used to identify you.</p> <p><strong>Log Data</strong></p> <p> We want to inform you that whenever you use our Service, in a case of an
                     error in the app we collect data and information (through third party products) on your phone
                     called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address,
                     device name, operating system version, the configuration of the app when utilizing our Service,
